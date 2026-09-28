@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="#061431"/>
+  <circle cx="32" cy="32" r="27" fill="none" stroke="#8dc63f" stroke-width="3.5"/>
+  <!-- Serif "M", drawn as a shape so it sits exactly in the centre (bounds x 18-46, y 21-43) -->
+  <g fill="#ffffff">
+    <path d="M20 43V21h6l6 11 6-11h6v22h-5V29.5l-5.2 9h-3.6l-5.2-9V43z"/>
+    <rect x="18" y="41" width="9" height="2"/>
+    <rect x="37" y="41" width="9" height="2"/>
+    <rect x="18" y="21" width="4" height="2"/>
+    <rect x="42" y="21" width="4" height="2"/>
+  </g>
+</svg>
